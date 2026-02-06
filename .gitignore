@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+genv/
+evn/
+venv/
+
+# Data files (generated)
+data/simulated_stream/
+
+# OS
+.DS_Store
+
+# Ollama models (just in case)
+.ollama/
